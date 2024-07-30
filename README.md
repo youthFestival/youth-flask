@@ -19,7 +19,7 @@ Youth-React Repository에 챗봇 서버 입니다.
 | Language | Python |
 | Python Version | 3.11.9 |
 | Framework | Flask 3.0.3 |
-| Library | re <br> Flask <br> flask_cors <br>langchain_text_splitters <br> langchain_community.document_loaders <br> langchain_community.vectorstores <br> langchain_core.output_parsers <br> Lombok <br> langchain_core.runnables <br> langchain_core.prompts <br> angchain_openai  <br> |
+| Library | re <br> Flask <br> flask_cors <br>langchain_text_splitters <br> langchain_community.document_loaders <br> langchain_community.vectorstores <br> langchain_core.output_parsers <br> langchain_core.runnables <br> langchain_core.prompts <br> langchain_openai  <br> |
 # **Features**
 * PyMuPDFLoader를 이용한 PDF 문서 로드
 * RecursiveCharacterTextSplitter를 이용한 문서 분할
